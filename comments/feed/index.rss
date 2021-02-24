@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for Jannah Technology	</title>
+	<atom:link href="https://jannah.tielabs.com/tech/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jannah.tielabs.com/tech</link>
+	<description>Just another TieLabs Themes Sites site</description>
+	<lastBuildDate>Fri, 25 Dec 2020 20:36:03 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<item>
+		<title>
+		Comment on Of course Uber is working on a flying car project by Aldmohy		</title>
+		<link>https://jannah.tielabs.com/tech/2016/12/12/of-course-uber-is-working-on-a-flying-car-project/#comment-1234</link>
+
+		<dc:creator><![CDATA[Aldmohy]]></dc:creator>
+		<pubDate>Fri, 25 Dec 2020 20:36:03 +0000</pubDate>
+		<guid isPermaLink="false">https://jannah.tielabs.com/jannah-tech/?p=114#comment-1234</guid>
+
+					<description><![CDATA[the apple world is the future]]></description>
+			<content:encoded><![CDATA[<p>the apple world is the future</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Apple kills development of its AirPort wireless routers by Ashraf Reda		</title>
+		<link>https://jannah.tielabs.com/tech/2014/05/08/apple-kills-development-of-its-airport-wireless-routers/#comment-2</link>
+
+		<dc:creator><![CDATA[Ashraf Reda]]></dc:creator>
+		<pubDate>Thu, 08 Dec 2016 15:01:33 +0000</pubDate>
+		<guid isPermaLink="false">https://jannah.tielabs.com/jannah-tech/?p=69#comment-2</guid>
+
+					<description><![CDATA[Simple but Elegant]]></description>
+			<content:encoded><![CDATA[<p>Simple but Elegant</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Motorola wants to release four Moto Z Mods per quarter next year by Anonymous		</title>
+		<link>https://jannah.tielabs.com/tech/2016/10/26/motorola-wants-to-release-four-moto-z-mods-per-quarter-next-year/#comment-1</link>
+
+		<dc:creator><![CDATA[Anonymous]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2016 11:17:34 +0000</pubDate>
+		<guid isPermaLink="false">https://jannah.tielabs.com/jannah-tech/?p=1#comment-1</guid>
+
+					<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
